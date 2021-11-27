@@ -68,10 +68,10 @@ The tree:
 Style 1 (copy & paste the following contents to Evolview to view the visualisation results):
 
 ```
-!grouplabel	color=pink,fontsize=14,fontcolor=black,linewidth=2
-chicken	text=cute by itself,fontcolor=red,linewidth=4
-mouse,rat	text=rodent,linecolor=darkgrey,fontcolor=purple,linestyle=dashed
-chimp,human	text=mammal,color=darkgreen,textorientation=vertical,linewidth=4,fontsize=16
+!grouplabel	color=red,fontsize=14,fontcolor=black,linewidth=2
+AtSPL12,AtSPL14 text=A,fontcolor=red,linewidth=4
+OsSPL9,AtSPL7 text=B,linecolor=darkgrey,fontcolor=purple,linestyle=dashed
+AtSPL5,IbSPL17 text=group3,color=darkgreen,textorientation=vertical,linewidth=4,fontsize=16
 ```
 
 ![](images/DatasetGroupLabel_grouplabel_style1.png)
